@@ -1,0 +1,6 @@
+[submodule "modules/client"]
+	path = modules/client
+	url = https://github.com/takeny1998/yeohaeng-ttukttak-v3-client
+[submodule "modules/server"]
+	path = modules/server
+	url = https://github.com/takeny1998/yeohaeng-ttukttak-v3-server
